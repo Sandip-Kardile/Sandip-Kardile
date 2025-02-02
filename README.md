@@ -28,8 +28,14 @@ My passion lies in building intelligent solutions for real-world business proble
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)  
+![PySpark](https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apachespark&logoColor=white)  
+![Databricks](https://img.shields.io/badge/Databricks-EA4C89?style=for-the-badge&logo=databricks&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-007ACC?style=for-the-badge&logo=ai&logoColor=white)  
+![image](https://github.com/user-attachments/assets/07f77ab9-af7b-4210-a36e-13b32f1773a6)
+
 
 ---
 
@@ -47,10 +53,8 @@ My passion lies in building intelligent solutions for real-world business proble
 ---
 
 ## 🌍 Let's Connect  
-📧 Email: [your-email@example.com](mailto:your-email@example.com)  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)  
-🐦 Twitter/X: [twitter.com/yourprofile](https://twitter.com/yourprofile)  
-🚀 GitHub: [github.com/your-username](https://github.com/your-username)  
+📧 Email: [sandipkardile26@gmail.com](mailto:sandipkardile26@gmail.com)  
+🚀 GitHub: [github.com/Sandip-Kardile](https://github.com/Sandip-Kardile)  
 
 ---
 💡 *"Transforming Data into Business Insights with AI & Machine Learning!"* 🚀  
