@@ -34,7 +34,6 @@ My passion lies in building intelligent solutions for real-world business proble
 ![Databricks](https://img.shields.io/badge/Databricks-EA4C89?style=for-the-badge&logo=databricks&logoColor=white)  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-007ACC?style=for-the-badge&logo=ai&logoColor=white)  
-![image](https://github.com/user-attachments/assets/07f77ab9-af7b-4210-a36e-13b32f1773a6)
 
 
 ---
